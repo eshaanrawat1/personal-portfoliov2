@@ -14,11 +14,11 @@ export function About() {
             </span>
           </h1>
           <p className="mb-6 text-gray-600 dark:text-gray-400">
-          I'm a second-year computer science student at UC Irvine.
+          I&#39;m a second-year computer science student at UC Irvine.
           In my free time, I enjoy playing chess, basketball, and trying out new food places. 
           </p>
           <p className="mb-6 text-gray-600 dark:text-gray-400">
-          This summer I'll be interning at Palantir in NYC. Don't hesitate to
+          This summer I&#39;ll be interning at Palantir in NYC. Don&#39;t hesitate to
           get in touch!
           </p>
           <div className="flex flex-wrap gap-3">
